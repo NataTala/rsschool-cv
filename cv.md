@@ -1,5 +1,6 @@
 # Nataliia Minchenko
 #### Future Front-End-Developer
+![photo_s](https://user-images.githubusercontent.com/79810557/109777480-6e7bf000-7c0c-11eb-9e54-79d5fca90310.jpg)
 ### Contacts:
 #### tel.: +38 095 525 08 95
 #### e-mail: i_nat@ukr.net
