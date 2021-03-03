@@ -13,19 +13,21 @@ I like to learn something new and interesting tasks. I'm lucky owner of logical 
   * MySQL
   * Photoshop
   * English (A2)
+
 ### Experience:
 _Judicial expert in intellectual property (trademarks, copyright).
 Main task - protect intellectual property rights._
 ### Course:
 * Online course of web programming by S.Nikonov, that includes next parts:
-  * HTML5/CSS3
-  * Bootstrap3
-  * PHP/MySQL
-  * Linux/Git
+ * HTML5/CSS3
+ * Bootstrap3
+ * PHP/MySQL
+ * Linux/Git
+
 ### Examples code:
 [Link to site Kinomonster](https://natatala.github.io/Kinomonster/)
 ### Education:
 ##### National Technical University "Kharkiv Polytechnic Institute": 
 Specialization «Computer science and Intellectual property».
 ##### Acadamy of Law:
-Specialization "Lawyer"
+Specialization "Lawyer".
