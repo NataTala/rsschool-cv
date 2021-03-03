@@ -18,11 +18,11 @@ I like to learn something new and interesting tasks. I'm lucky owner of logical 
 _Judicial expert in intellectual property (trademarks, copyright).
 Main task - protect intellectual property rights._
 ### Course:
-* Online course of web programming by S.Nikonov, that includes next parts:
- * HTML5/CSS3
- * Bootstrap3
- * PHP/MySQL
- * Linux/Git
+ * Online course of web programming by S.Nikonov, that includes next parts:
+   * HTML5/CSS3
+   * Bootstrap3
+   * PHP/MySQL
+   * Linux/Git
 
 ### Examples code:
 [Link to site Kinomonster](https://natatala.github.io/Kinomonster/)
